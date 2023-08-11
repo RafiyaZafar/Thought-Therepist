@@ -32,9 +32,6 @@ ThoughtTherapist is a chatbot application built to provide mental health support
 
 Contributions are welcome! If you find any issues or want to enhance the functionality, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
