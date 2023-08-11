@@ -1,0 +1,115 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "how are you"],
+      "responses": ["Hello! How can I assist you?", "Hi there!", "Hey! How can I help?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "see you", "goodbye"],
+      "responses": ["Goodbye! Take care.", "See you later!", "Farewell!"]
+    },
+    {
+      "tag": "gratitude",
+      "patterns": ["thank you", "thanks", "appreciate it"],
+      "responses": ["You're welcome!", "Anytime!", "Glad I could help."]
+    },
+    {
+      "tag": "stress",
+      "patterns": ["feeling stressed", "too much pressure", "stressful day"],
+      "responses": ["I'm here to help you manage stress. Let's talk.", "Stress is a common feeling. Let's explore ways to cope."]
+    },
+    {
+      "tag": "anxiety",
+      "patterns": ["anxious", "nervous", "panic attack"],
+      "responses": ["Anxiety is tough. Let's work on calming techniques.", "I can assist you with anxiety management strategies."]
+    },
+    {
+      "tag": "depression",
+      "patterns": ["feeling down", "hopeless", "empty"],
+      "responses": ["Depression is challenging. Let's discuss your emotions.", "I'm here to support you through feelings of depression."]
+    },
+    {
+      "tag": "self_esteem",
+      "patterns": ["low self-esteem", "confidence issues", "not feeling good enough"],
+      "responses": ["Building self-esteem takes time. Let's explore your strengths.", "You're unique and valuable. Let's boost your self-esteem."]
+    },
+    {
+      "tag": "relationships",
+      "patterns": ["relationship problems", "communication issues", "breakup"],
+      "responses": ["Relationships can be complex. Let's navigate through your concerns.", "Let's work on improving your relationships."]
+    },
+    {
+      "tag": "goal_setting",
+      "patterns": ["setting goals", "achieving dreams", "planning for success"],
+      "responses": ["Setting goals is important. Let's outline your aspirations.", "Let's create a plan to achieve your goals."]
+    },
+    {
+      "tag": "positive_thinking",
+      "patterns": ["negative thoughts", "changing mindset", "positive thinking"],
+      "responses": ["Positive thinking can make a difference. Let's reframe your thoughts.", "I can help you shift to a more positive mindset."]
+    },
+    {
+      "tag": "introduction",
+      "patterns": ["Tell me about CBT", "What is CBT?", "Explain Cognitive Behavioral Therapy"],
+      "responses": ["Cognitive Behavioral Therapy (CBT) focuses on the relationship between thoughts, emotions, and behaviors. It aims to help you identify and change negative thought patterns."]
+    },
+    {
+      "tag": "thought_therapists",
+      "patterns": ["Tell me about thought therapists", "What are thought therapists?", "Explain thought therapists", "Who are thought therapists?"],
+      "responses": [
+        "Thought therapists are professionals who specialize in cognitive behavioral therapy (CBT). They work with individuals to help them identify and change negative thought patterns that contribute to emotional distress.",
+        "Thought therapists, often known as cognitive behavioral therapists, use evidence-based techniques to help people manage stress, anxiety, depression, and other emotional challenges.",
+        "Thought therapists utilize cognitive behavioral therapy (CBT) to assist individuals in understanding the connection between their thoughts, emotions, and behaviors. This therapy aims to promote healthier ways of thinking and coping.",
+        "Cognitive behavioral therapy (CBT) is a key approach used by thought therapists. It focuses on helping individuals develop practical strategies to challenge and reframe negative thoughts, leading to improved mental well-being."
+      ]
+    },
+    {
+      "tag": "negative_thoughts",
+      "patterns": ["How can I deal with negative thoughts?", "Help me manage my negative thinking", "Challenge my negative thoughts"],
+      "responses": ["Let's work on challenging those negative thoughts. Tell me about a recent situation that triggered these thoughts."]
+    },
+    {
+      "tag": "cognitive_restructuring",
+      "patterns": ["Teach me cognitive restructuring", "How does cognitive restructuring work?", "Walk me through cognitive restructuring"],
+      "responses": ["Cognitive restructuring involves identifying and challenging negative thought patterns. Let's go through an example."]
+    },
+    {
+      "tag": "behavioral_activation",
+      "patterns": ["How can I increase my motivation?", "Help me with behavioral activation", "Guide me in behavioral activation"],
+      "responses": ["Behavioral activation involves engaging in positive activities to improve your mood. Let's create a list of activities you enjoy."]
+    },
+    {
+      "tag": "exposure_therapy",
+      "patterns": ["Explain exposure therapy", "How does exposure therapy help with anxiety?", "Teach me about exposure therapy"],
+      "responses": ["Exposure therapy involves gradually facing feared situations to reduce anxiety. Describe a specific situation that triggers your anxiety."]
+    },
+    {
+      "tag": "problem_solving",
+      "patterns": ["Help me with problem-solving", "Teach me problem-solving techniques", "Guide me through a problem-solving exercise"],
+      "responses": ["Problem-solving skills are useful. Tell me about a current problem, and we'll work on finding solutions."]
+    },
+    {
+      "tag": "positive_affirmations",
+      "patterns": ["Give me positive affirmations", "I need positive thoughts", "Teach me to think positively"],
+      "responses": ["Let's work on positive affirmations. What area in your life would you like to cultivate a positive mindset?"]
+    },
+    {
+      "tag": "progress_tracking",
+      "patterns": ["How do I track my progress?", "Help me measure my improvement", "Guide me in tracking my CBT progress"],
+      "responses": ["Tracking progress is important. Let's set goals for the week and discuss how to monitor your thoughts, emotions, and behaviors."]
+    },
+    {
+      "tag": "mindfulness_relaxation",
+      "patterns": ["Teach me mindfulness techniques", "How can I practice relaxation?", "Guide me in mindfulness"],
+      "responses": ["Mindfulness and relaxation are helpful. Start with a simple mindfulness exercise: focus on your breath for a few minutes."]
+    },
+    {
+      "tag": "coping_with_triggers",
+      "patterns": ["How do I cope with triggers?", "Help me manage my triggers", "Guide me in handling triggers"],
+      "responses": ["Coping with triggers is essential. Identify a situation that triggers negative emotions, and we'll work on strategies to handle it."]
+    }
+  ]
+}
+
